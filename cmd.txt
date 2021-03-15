@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "learning uvm"
+git remote add origin https://github.com/DinhVanCo/U-V-M.git
+git push origin master
