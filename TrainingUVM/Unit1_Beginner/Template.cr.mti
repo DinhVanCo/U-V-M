@@ -1,0 +1,8 @@
+E:/Project/Fpga/QuestaSIM/TrainingUVM/Unit1_Beginner/hello_world.sv {0 {vlog -work work -vopt -sv E:/Project/Fpga/QuestaSIM/TrainingUVM/Unit1_Beginner/hello_world.sv
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+** Error: E:/Project/Fpga/QuestaSIM/TrainingUVM/Unit1_Beginner/hello_world.sv(2): Cannot open `include file "C:/questasim64_10.2c/ovm-2.1.2/../verilog_src/ovm-2.1.2/src/uvm.sv".
+** Error: E:/Project/Fpga/QuestaSIM/TrainingUVM/Unit1_Beginner/hello_world.sv(7): (vlog-2163) Macro `uvm_component_utils is undefined.
+
+** Error: E:/Project/Fpga/QuestaSIM/TrainingUVM/Unit1_Beginner/hello_world.sv(7): near "(": syntax error, unexpected '(', expecting function or task
+
+} {3.0 5.0 6.0 7.0} {}}
